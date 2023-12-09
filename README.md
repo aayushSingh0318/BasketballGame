@@ -1,5 +1,6 @@
 # BasketballGame
 Project Summary
+
 This project aimed to create a captivating 2D animation scene in Processing that portrays a dynamic forest scene. The scene includes background stars, trees, moving leafs, wind particles, rocks, and a waterfall stream. Each object in the scene exhibits simulation principles and forces to represent different behaviors within different objects.
 Ensure all these files are in the same directory:
 
