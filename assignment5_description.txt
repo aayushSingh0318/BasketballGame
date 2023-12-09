@@ -1,0 +1,11 @@
+assignment5_description:
+
+In this assignment we created an arcade basketball game. There are four components of the game. 
+
+In this program there is a ball class that details the code entailed with the basketball object and its movement, a hoop class that moves a hoop side to side, a scoreboard class that updates the score image, and a confetti class that emits confetti after the user scores. 
+
+Krishna programmed the basketball hoop to move side to side to make the game more challenging. When the basketball hit the hoop, the user won. 
+
+Jessica programmed the ball, its texture, and its movement through 3d space when the user shoots the ball. 
+
+Aayush programmed the scoreboard to increase the score each time the user won, as well as confetti that only came down when the user scored, and stopped  emitting when the user pressed the space bar. 
