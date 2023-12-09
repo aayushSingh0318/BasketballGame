@@ -5,12 +5,19 @@ This project aimed to create a captivating 2D animation scene in Processing that
 Ensure all these files are in the same directory:
 
 group_9_a6.pde
+
 Leaf.pde
+
 Rock.pde
+
 Tree.pde
+
 Waterfall.pde
+
 WindParticle.png
+
 forestAudio.mp3
+
 
 When you have all the files attached run the code. 
 
